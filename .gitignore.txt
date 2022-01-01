@@ -1,0 +1,9 @@
+**/bin/
+**/debug/
+**/obj/
+**/.vs/
+**/TestResults/
+**/Logs/*.log
+**/*.user
+**/*.dbmdl
+**/*.jfm
